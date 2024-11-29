@@ -1,0 +1,5 @@
+4
+8439, Jake Hobbs, 10,11,10,43
+1245, Fred Smith, 12,10,15,50
+2345, Jo Huckleberry, 20,20,19,80
+5678, Cardo Dalisay, 5,6,8,30
